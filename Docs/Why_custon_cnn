@@ -1,0 +1,14 @@
+# Why a Custom CNN 
+ We chose to build our CNN from scratch rather than 
+ using a pre-trained model like MobileNetV2 or ResNet50. 
+ ## Why we built from scratch 
+ - The assignment allows either a custom CNN or transfer learning. 
+ - Building from scratch helps us understand every layer. 
+ - Our dataset is small (600 images), so we wanted full 
+ control over the architecture. 
+ ## Trade-offs 
+ - A custom CNN takes longer to tune
+- With only 600 images, it is harder to generalize. 
+ - Transfer learning would likely give better accuracy 
+ on this small dataset. 
+
