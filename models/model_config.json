@@ -1,0 +1,18 @@
+{
+    "model_name": "Pothole Detection CNN",
+    "task": "Binary Classification - Pothole vs Intact Asphalt",
+    "dataset": "Road Anomaly Detection System Dataset",
+    "input_shape": [
+        224,
+        224,
+        3
+    ],
+    "classes": [
+        "Plain",
+        "Pothole"
+    ],
+    "validation_accuracy": 0.6000000238418579,
+    "validation_loss": 0.6632295846939087,
+    "training_date": "2026-07-31 17:36:49",
+    "tensorflow_version": "2.20.0"
+}
