@@ -1,0 +1,15 @@
+# Dataset Sources
+## Primary dataset
+Road Anomaly Detection System Dataset
+Mendeley Data, Version 2, published 8 July 2025.
+https://data.mendeley.com/datasets/fbhdy3bxgv/2
+Contributors:
+- Manavaditya Rathawa
+- Rutuja Kadam
+- Jawad Roshan
+Institution: Vishwakarma Institute of Information Technology
+## Image counts
+- Pothole: 300 images
+- Plain (good quality road): 300 images
+- Total: 600 images
+- Total download size: 765 MB
